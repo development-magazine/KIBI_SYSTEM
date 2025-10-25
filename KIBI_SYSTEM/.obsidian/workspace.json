@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "f50c98251681ac4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa2a75a2c475b66f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "735aebe4d11ecf9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Время.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Время"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d14d3dec79bea6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "de9078e7efd8b4eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f313ffaf1fbea5ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "fe816e3294e64f25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "09ef306bd70a1db5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "166c25240006b4bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "12f6b13c1504e6b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc735b71d2a96c7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "KIBI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for KIBI"
+            }
+          },
+          {
+            "id": "f5f1b1b6003dd15f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "KIBI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from KIBI"
+            }
+          },
+          {
+            "id": "beab91b2a4e2e712",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0e96051635d8b184",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "KIBI.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of KIBI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "735aebe4d11ecf9c",
+  "lastOpenFiles": [
+    "Город.md",
+    "24.10.2025.md",
+    "21_days_rebirth.md.md",
+    "KIBI.md",
+    "Сознание.md",
+    "Время.md",
+    "Энергия.md",
+    "Welcome.md"
+  ]
+}
