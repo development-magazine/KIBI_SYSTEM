@@ -1,0 +1,2 @@
+# KIBI_SYSTEM
+Obsidian KIBI
